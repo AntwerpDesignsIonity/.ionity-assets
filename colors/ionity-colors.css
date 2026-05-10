@@ -1,0 +1,42 @@
+/**
+ * Ionity Global (Pty) Ltd — Official Brand Color Tokens
+ * https://ionity.today
+ *
+ * Use these CSS custom properties to apply consistent brand colors
+ * across any web project.
+ */
+
+:root {
+  /* Brand */
+  --ionity-primary:        #0A0AFF;
+  --ionity-primary-dark:   #0000CC;
+  --ionity-primary-light:  #5555FF;
+  --ionity-accent:         #00CFFF;
+
+  /* Neutral — Light Mode */
+  --ionity-background:     #FFFFFF;
+  --ionity-surface:        #F5F5F5;
+  --ionity-text:           #111111;
+  --ionity-text-muted:     #666666;
+
+  /* Neutral — Dark Mode */
+  --ionity-background-dark:  #0D0D0D;
+  --ionity-surface-dark:     #1A1A1A;
+  --ionity-text-dark:        #F5F5F5;
+  --ionity-text-muted-dark:  #AAAAAA;
+
+  /* Semantic */
+  --ionity-success: #22C55E;
+  --ionity-warning: #F59E0B;
+  --ionity-error:   #EF4444;
+  --ionity-info:    #3B82F6;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ionity-background: #0D0D0D;
+    --ionity-surface:    #1A1A1A;
+    --ionity-text:       #F5F5F5;
+    --ionity-text-muted: #AAAAAA;
+  }
+}

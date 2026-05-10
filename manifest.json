@@ -1,0 +1,66 @@
+{
+  "version": "1.0.0",
+  "name": "Ionity Assets",
+  "description": "Brand and design assets for Ionity Global (Pty) Ltd and related properties.",
+  "assets": {
+    "logos": [
+      {
+        "id": "ionity-logo-primary",
+        "name": "Ionity Primary Logo",
+        "path": "logos/ionity-logo-primary.svg",
+        "format": "svg",
+        "theme": "universal",
+        "description": "The primary full-color Ionity logo for use on light backgrounds."
+      },
+      {
+        "id": "ionity-logo-light",
+        "name": "Ionity Light Logo",
+        "path": "logos/ionity-logo-light.svg",
+        "format": "svg",
+        "theme": "dark",
+        "description": "White version of the Ionity logo for use on dark or colored backgrounds."
+      },
+      {
+        "id": "ionity-logo-dark",
+        "name": "Ionity Dark Logo",
+        "path": "logos/ionity-logo-dark.svg",
+        "format": "svg",
+        "theme": "light",
+        "description": "Dark version of the Ionity logo for use on light backgrounds."
+      }
+    ],
+    "icons": [
+      {
+        "id": "ionity-icon",
+        "name": "Ionity App Icon",
+        "path": "icons/ionity-icon.svg",
+        "format": "svg",
+        "description": "Square Ionity brand icon suitable for app icons and favicons."
+      },
+      {
+        "id": "ionity-favicon",
+        "name": "Ionity Favicon",
+        "path": "icons/ionity-favicon.svg",
+        "format": "svg",
+        "description": "Ionity favicon optimised for browser tab display."
+      }
+    ],
+    "colors": [
+      {
+        "id": "ionity-colors",
+        "name": "Ionity Color Palette",
+        "path": "colors/ionity-colors.json",
+        "format": "json",
+        "description": "Full brand color palette in JSON format."
+      },
+      {
+        "id": "ionity-colors-css",
+        "name": "Ionity CSS Custom Properties",
+        "path": "colors/ionity-colors.css",
+        "format": "css",
+        "description": "Brand colors as CSS custom properties (variables)."
+      }
+    ],
+    "images": []
+  }
+}

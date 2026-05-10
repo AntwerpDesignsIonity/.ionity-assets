@@ -1,0 +1,77 @@
+{
+  "name": "Ionity Color Palette",
+  "version": "1.0.0",
+  "description": "Official brand color tokens for Ionity Global (Pty) Ltd.",
+  "colors": {
+    "brand": {
+      "primary": {
+        "value": "#0A0AFF",
+        "description": "Primary brand blue — buttons, links, key UI elements."
+      },
+      "primaryDark": {
+        "value": "#0000CC",
+        "description": "Darkened primary for hover and active states."
+      },
+      "primaryLight": {
+        "value": "#5555FF",
+        "description": "Lightened primary for backgrounds and subtle highlights."
+      },
+      "accent": {
+        "value": "#00CFFF",
+        "description": "Accent cyan — highlights, gradients, and decorative elements."
+      }
+    },
+    "neutral": {
+      "background": {
+        "value": "#FFFFFF",
+        "description": "Default light background."
+      },
+      "backgroundDark": {
+        "value": "#0D0D0D",
+        "description": "Default dark background."
+      },
+      "surface": {
+        "value": "#F5F5F5",
+        "description": "Card and panel background (light)."
+      },
+      "surfaceDark": {
+        "value": "#1A1A1A",
+        "description": "Card and panel background (dark)."
+      },
+      "text": {
+        "value": "#111111",
+        "description": "Primary text on light backgrounds."
+      },
+      "textMuted": {
+        "value": "#666666",
+        "description": "Secondary / muted text on light backgrounds."
+      },
+      "textDark": {
+        "value": "#F5F5F5",
+        "description": "Primary text on dark backgrounds."
+      },
+      "textMutedDark": {
+        "value": "#AAAAAA",
+        "description": "Secondary / muted text on dark backgrounds."
+      }
+    },
+    "semantic": {
+      "success": {
+        "value": "#22C55E",
+        "description": "Success state — confirmations and positive feedback."
+      },
+      "warning": {
+        "value": "#F59E0B",
+        "description": "Warning state — caution messages."
+      },
+      "error": {
+        "value": "#EF4444",
+        "description": "Error state — destructive actions and error feedback."
+      },
+      "info": {
+        "value": "#3B82F6",
+        "description": "Informational state — tips and neutral notices."
+      }
+    }
+  }
+}
