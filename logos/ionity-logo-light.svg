@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none" role="img" aria-label="Ionity logo (light)">
+  <title>Ionity (light)</title>
+  <!-- Icon mark -->
+  <rect x="0" y="10" width="40" height="40" rx="8" fill="#FFFFFF"/>
+  <text x="20" y="36" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700"
+        fill="#0A0AFF" text-anchor="middle">i</text>
+  <!-- Wordmark -->
+  <text x="52" y="40" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700"
+        fill="#FFFFFF" letter-spacing="-0.5">ionity</text>
+</svg>

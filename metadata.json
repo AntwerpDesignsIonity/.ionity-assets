@@ -1,0 +1,44 @@
+{
+  "name": "Ionity Global (Pty) Ltd",
+  "shortName": "Ionity",
+  "legalName": "Ionity Global (Pty) Ltd",
+  "website": "https://ionity.today",
+  "description": "Ionity Global is a technology and digital services company delivering modern solutions for the connected world.",
+  "founded": "2024",
+  "country": "ZA",
+  "logo": {
+    "primary": "logos/ionity-logo-primary.svg",
+    "light": "logos/ionity-logo-light.svg",
+    "dark": "logos/ionity-logo-dark.svg",
+    "icon": "icons/ionity-icon.svg",
+    "favicon": "icons/ionity-favicon.svg"
+  },
+  "colors": {
+    "primary": "#0A0AFF",
+    "primaryDark": "#0000CC",
+    "primaryLight": "#5555FF",
+    "accent": "#00CFFF",
+    "background": "#FFFFFF",
+    "backgroundDark": "#0D0D0D",
+    "text": "#111111",
+    "textDark": "#F5F5F5",
+    "success": "#22C55E",
+    "warning": "#F59E0B",
+    "error": "#EF4444"
+  },
+  "typography": {
+    "primaryFont": "Inter",
+    "monoFont": "JetBrains Mono",
+    "baseSizeRem": 1,
+    "scaleRatio": 1.25
+  },
+  "social": {
+    "github": "https://github.com/AntwerpDesignsIonity",
+    "twitter": "https://twitter.com/ionitytoday"
+  },
+  "contact": {
+    "email": "hello@ionity.today"
+  },
+  "assetVersion": "1.0.0",
+  "updatedAt": "2026-05-10"
+}

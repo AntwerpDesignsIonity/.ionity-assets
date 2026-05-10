@@ -1,0 +1,35 @@
+{
+  "name": "@ionity/assets",
+  "version": "1.0.0",
+  "description": "Public brand assets for ionity.today — Ionity Global (Pty) Ltd and related properties.",
+  "keywords": [
+    "ionity",
+    "assets",
+    "brand",
+    "logos",
+    "icons",
+    "colors"
+  ],
+  "homepage": "https://ionity.today",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AntwerpDesignsIonity/.ionity-assets.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Ionity Global (Pty) Ltd",
+    "url": "https://ionity.today"
+  },
+  "files": [
+    "logos/",
+    "icons/",
+    "colors/",
+    "fonts/",
+    "images/",
+    "manifest.json",
+    "metadata.json"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
